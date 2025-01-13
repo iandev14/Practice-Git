@@ -1,4 +1,4 @@
-# modified by ian
+# modified by kizmocu
 
 - I am practicing Git.
 
